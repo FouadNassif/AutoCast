@@ -1,0 +1,6 @@
+pyautogui==0.9.53
+colorama==0.4.6
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
